@@ -1,0 +1,116 @@
+﻿*{
+	font-family:italic;
+}
+body{
+	background:#005883;
+	margin: 100px;
+}
+.twitter-tweet{
+	position:absolute;
+	left: 30%;
+}
+h1{
+	color:#F0B429;
+	text-align:center;
+	font-family:italic;
+	
+}
+h2{
+	color:#F0B429;
+	text-align:center;
+	font-family:italic;
+}
+h3{
+	color:#F0B429;
+	text-align:left;
+	font-family:italic;
+	 position: absolute; 
+}
+p{
+font-family:italic;
+}
+#menu ul {
+	list-style:none;
+	margin:100;
+	padding:100;
+	position: relative; 
+    left: 27%;
+
+
+
+
+}
+#menu #item{
+float:left;
+
+
+}
+#menu #item a{
+
+	background:#333333;
+	color:white;
+	padding : 12px 22px;
+	display: block;
+	font-family:italic;
+	font-size:16;
+	text-decoration:none;
+
+	
+	
+}
+#menu #despl {
+	display:none;
+	
+	
+	
+	
+	}
+#menu #item:hover #despl{
+	display: block;
+	
+}
+#menu #item a:hover {
+	background-color:#808080;
+	
+}
+.imagenn{
+	width: 350px;
+	height: auto;
+}
+.egt{
+	width:60%;
+    position: absolute; 
+    left: 10%;
+	
+}
+imgen3{background-color:white}
+.a1{
+	text-align:justify;
+	width:1250px;
+	height:150px;
+	font-family:italic;
+	font-size:16;
+
+}
+#a2{
+	text-align:justify;
+	width:550px;
+	height:70px;
+}
+#a3{
+	text-align:justify;
+	
+}
+
+#a4 a{
+	color:#F47920;
+}
+.egti{
+	width:60%;
+    position: absolute; 
+    left: 20%;
+}
+#video{
+	 position: absolute; 
+    left: 32%;
+}
